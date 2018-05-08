@@ -1,0 +1,3 @@
+C:/Users/Dev/Desktop/nesrine/DistanceWidget/build/CMakeFiles/DistanceWidget.dir
+C:/Users/Dev/Desktop/nesrine/DistanceWidget/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dev/Desktop/nesrine/DistanceWidget/build/CMakeFiles/ZERO_CHECK.dir

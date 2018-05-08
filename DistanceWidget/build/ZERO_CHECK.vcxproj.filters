@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dev\Desktop\nesrine\DistanceWidget\build\CMakeFiles\fa418c21008b11c29c9da56bf3d2bf62\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BD5AE6F6-B355-38CD-893C-F6A6A5528708}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
